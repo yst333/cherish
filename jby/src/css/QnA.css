@@ -1,0 +1,116 @@
+@charset "utf-8";
+
+@font-face {
+    font-family: 'Pretendard-Regular';
+    src: url('https://cdn.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+
+/* 하남다움체 */
+/* https://noonnu.cc/font_page/1144 */
+@font-face {
+    font-family: 'HANAMDAUM';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2304-2@1.0/HANAMDAUM.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+}
+
+*{
+    font-family: 'Pretendard-Regular' !important;
+    --bs-accordion-btn-focus-box-shadow: 0;
+}
+
+.accordion-button svg, .accordion-button::after svg{
+    color: #ffffff !important;
+    fill: #ffffff !important;
+    background-color: #ffffff !important;
+}
+
+.csTitle{
+    padding-bottom: 5%;
+}
+
+.CSCategory{
+    margin-bottom: 10px;
+}
+
+div.blank{
+    height: 100px;
+}
+
+.qnaTitle{
+    padding-left: 10px;
+}
+.qnaContainer{
+    width: 70%;
+}
+
+.csContainer{
+    width: 50%;
+    border: 1px solid #F8488F;
+    border-radius: 3%;
+    padding: 1.5rem;
+}
+
+.qnaButton{
+    background-color: #F8488F;
+    border-color: #F8488F;
+    /* float: right; */
+    color: #ffffff;
+    /* overflow: hidden; */
+}
+
+.qnaButton:hover{
+    border-color: #F8488F;
+}
+
+.accordion-header{
+    text-align: center !important;
+}
+
+.accordion-button:not(.collapsed){
+    background-color: #F8488F;
+    color: #ffffff;
+}
+
+.accordion-button{
+    background-color: #F8488F;
+    font-weight: bold;
+    font-family: 'HANAMDAUM';
+    color: #ffffff;
+}
+
+
+
+.accordion-body{
+    background-color: rgba(248, 72, 143, 0.2);
+    font-weight: bold;
+    font-family: 'HANAMDAUM';
+    color: #000000;
+}
+
+/* qna 배너 */
+.carousel-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  qnaImg {
+    max-width: 70vw;
+    height: 500px;
+  }
+
+/* 
+리액트 부트스트랩 실행 웹사이트에서 요소 선택 확인 후
+아코디언 첫번째 제목 버튼 클릭 시 변화되는 배경색을 변경합니다.
+*/
+/* 
+.accordion-button:not(.collapsed){
+    background-color: lightpink !important;
+}
+*/
+
+
