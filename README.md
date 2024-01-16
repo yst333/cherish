@@ -1,5 +1,8 @@
 <h1>CHERISH</h1>
 <h3>아이돌의 콘서트 일정, 음악, 뮤비, 화보등을 볼 수 있는 팬 커뮤니티 반응형 웹사이트</h3>
+![Frame 3](https://github.com/yst333/cherish/assets/141698052/c9ff8ac3-22db-40bf-8e69-9e881566c52a)
+![Frame 4](https://github.com/yst333/cherish/assets/141698052/13c837fd-abfd-46c7-a0cd-bc82aaa5a4fe)
+![Frame 5](https://github.com/yst333/cherish/assets/141698052/e45477bd-5c26-45da-b5f2-9eca4621f596)
 
 <strong>Overview</strong>
 <p>K-POP 아이돌 팬 커뮤니티 반응형 웹 UI는 Axios, Reactstrap, Bootstrap 을 이용해서 반응형 웹 사이트를 구현하였습니다. SpringBoot를 기반으 로 웹을 구현하였습니다. 화려한 미디어요소들을 배치하고 로그인/로그아 웃, 자유게시판, 1:1문의 게시판 기능을 제공합니다.</p>
