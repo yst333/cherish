@@ -7,43 +7,33 @@
 <h3>개발언어</h3>
 <ul>
   <li>
-    ::marker
     <code>JAVA</code>
   </li>
   <li>
-    ::marker
     <code>Spring Boot</code>
   </li>
   <li>
-    ::marker
     <code>JPA</code>
   </li>
   <li>
-    ::marker
     <code>React</code>
   </li>
   <li>
-    ::marker
     <code>Oracle DB</code>
   </li>
   <li>
-    ::marker
     <code>React</code>
   </li>
   <li>
-    ::marker
     <code>Axios</code>
   </li>
   <li>
-    ::marker
     <code>HTML</code>
   </li>
   <li>
-    ::marker
     <code>CSS</code>
   </li>
   <li>
-    ::marker
     <code>JAVASCRIPT</code>
   </li>
 </ul>
@@ -51,34 +41,27 @@
 <h3>TOOL</h3>
 <ul>
   <li>
-    ::marker
     <code>STS</code>
   </li>
   <li>
-    ::marker
     <code>SQL Developer</code>
   </li>
   <li>
-    ::marker
     <code>Visual Studio Code</code>
   </li>
   <li>
-    ::marker
     <code>Figma</code>
   </li>
   <li>
-    ::marker
     <code>Notion</code>
   </li>
 </ul>
 <h3>OPEN API</h3>
 <ul>
   <li>
-    ::marker
     <code>챗봇(Cannel Talk)</code>
   </li>
   <li>
-    ::marker
     <code>Kakao Map API</code>
   </li>
 </ul>
@@ -86,23 +69,18 @@
 <h3>COLLABORATION</h3>
 <ul>
   <li>
-    ::marker
     <code>Git/Github</code>
   </li>
   <li>
-    ::marker
     <code>Sourcetree</code>
   </li>
   <li>
-    ::marker
     <code>Trello</code>
   </li>
   <li>
-    ::marker
     <code>Agile</code>
   </li>
   <li>
-    ::marker
     <code>Kanban Board</code>
   </li>
 </ul>
