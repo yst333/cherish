@@ -28,7 +28,7 @@
     <code>Axios</code>
   </li>
   <li>
-    <code>HTML</code>
+    <code>HTML</code>
   </li>
   <li>
     <code>CSS</code>
